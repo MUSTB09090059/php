@@ -23,7 +23,7 @@
             echo $row["time"];
             echo "</td></tr>";
         }
-        echo "</table>";
+        echo "</table>";//返回桌面
     
     }
 
